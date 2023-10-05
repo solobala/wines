@@ -1,0 +1,24 @@
+{
+    "TYPE_MODEL_FILE": "models/binary.pkl",
+    "TYPE_PREDICTION_FILE": "reports/type_predictionsse.csv",
+    "DATA_FOLDER": "data",
+    "INTERIM_DATA_FOLDER": "data/interim",
+    "INTERIM_DATA_FILE": "data/interim/cleaned_wines.csv",
+    "CNN_MODEL_FILE": "models/cnn_model",
+    "TRANSFORM_MODEL_FILE": "models/transform_model",
+    "QUALITY_PREDICTION_FILE": "reports/quality_predictions.csv",
+    "PREDICTION_FOLDER": "reports",
+   
+    "PROCESSED_TYPE_DATA_FILE": "data/processed/data.csv",
+    "PROCESSED_QUALITY_DATA_FILE": "data/processed/data_reg.csv",
+    "PROCESSED_QUALITY_TRANSFORMED_DATA_FILE": "data/processed/data_reg_transform.csv",
+    "PROCESSED_TYPE_DATA_FILE_TO_PREDICTION": "data/processed/data_predict.csv",
+    "PROCESSED_QUALITY_DATA_FILE_TO_PREDICTION": "data/processed/data_reg_transform_predict.csv",
+    "RAW_DATA_FILE": "data/raw/winequalityN.csv",
+    "RAW_DATA_FOLDER": "data/raw",
+    "RAW_DATA_FILE_TO_PREDICTION": "data/raw/data_predict.csv",
+    "TYPE_METRICS": "reports/cv_results.pkl",
+    "CNN_METRICS": "reports/cnn_metrics.json",
+    "TRANSFORM_METRICS": "reports/transform_metrics.json",
+    "KAGGLE_CONFIG_DIR": "C:/Users/Asus/.kaggle"
+}

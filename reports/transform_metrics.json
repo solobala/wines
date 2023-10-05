@@ -1,0 +1,1 @@
+"{\"loss\": 0.5162094831466675, \"wine_quality_loss\": 0.4566231966018677, \"wine_type_loss\": 0.059586301445961, \"wine_quality_rmse\": 0.6757389903068542, \"wine_quality_mse\": 0.4566231966018677, \"wine_quality_mae\": 0.47770723700523376, \"wine_type_accuracy\": 0.983930766582489, \"r2_score\": 0.8843641657817807}"
